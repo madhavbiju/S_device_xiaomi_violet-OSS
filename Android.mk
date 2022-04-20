@@ -1,5 +1,5 @@
 # Copyright (C) 2020-2021 Wave-OS
-# Copyright (C) 2020-2021 Cherish-OS
+# Copyright (C) 2022 The Potato Open Sauce Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.

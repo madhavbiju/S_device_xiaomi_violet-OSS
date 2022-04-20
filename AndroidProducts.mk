@@ -1,5 +1,5 @@
 # Copyright (C) 2020-2021 Wave-OS
-# Copyright (C) 2020-2021 Cherish-OS
+# Copyright (C) 2022 The Potato Open Sauce Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_violet.mk
+    $(LOCAL_DIR)/potato_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_violet-user \
-    cherish_violet-userdebug \
-    cherish_violet-eng
+    potato_violet-user \
+    potato_violet-userdebug \
+    potato_violet-eng
