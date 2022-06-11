@@ -655,4 +655,7 @@
     <string-array name="config_deviceKeyHandlerClasses" translatable="false">
         <item>me.superioros.keyhandler.KeyHandler</item>
     </string-array>
+
+    <!-- Exempt ImsService from privacy (location) indicators -->
+    <string name="config_systemTelephonyPackage" translatable="false">com.qualcomm.qti.cne</string>
 </resources>
