@@ -395,11 +395,6 @@ vendor/lib64/hw/vendor.qti.hardware.capabilityconfigstore@1.0-impl.so|e70fda0288
 # Consumer IR
 vendor/lib64/hw/consumerir.default.so:vendor/lib64/hw/consumerir.sm6150.so
 
-# Dirac - from Xiaomi
-vendor/etc/diracmobile.config|7b7d1d38b2ac8234efbfc51baab597136fb87779
-vendor/lib/soundfx/libdirac.so|f63826a905b520fa524e4c1b147be7cf65240953
-vendor/lib/libDiracAPI_SHARED.so|42b49679d38eca93fead05ea06ddbdc8108fd4b1
-
 # Display - from 11500.02 SMxxx0
 vendor/lib64/libdisplayqos.so|5548732c916e629f18f45ce257ce843b679a136a
 vendor/lib64/libhdr_tm.so|a222a7d838735c5ce73f06d4096fea3ca19611c8
@@ -681,6 +676,9 @@ vendor/lib64/libvpplibrary.so|5a90004fe6852db15dc8d38b8e3c361dc16f2bba
 vendor/lib64/vendor.qti.hardware.vpp@1.1.so|d47fd7845c02aec702ab96569b90eb6bff2cee5c
 vendor/lib64/vendor.qti.hardware.vpp@1.2.so|13714cdc3a7a5aaa67e641034cb92e9fced28960
 vendor/lib64/vendor.qti.hardware.vpp@1.3.so|aea8a28f53263b5001df295d0a6eab0e8405693b
+
+# Mi Audio Fx - from Redmi Note 10 Pro V13.0.12.0.SKFMIXM
+vendor/lib/soundfx/libmisoundfx.so|fde0519727e01c38296e4b938714f8501afc629b
 
 # Peripheral Manager - from 11500.02 SMxxx0
 vendor/bin/pm-proxy|0704192692efb4b79e8cb1a2252625ad24468805
